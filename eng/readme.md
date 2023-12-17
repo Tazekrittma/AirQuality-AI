@@ -1,3 +1,2 @@
 English Version,
-we will try to bring t up online soon :)
-Massinissa TAZEKRITT
+we will try to bring t up online 
