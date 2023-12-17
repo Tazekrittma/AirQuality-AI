@@ -1,1 +1,10 @@
 list of scripts
+You can Use the Fullscript file if you want a non modular approche
+For a modular apprche, the order is as follows:
+1 imports
+2 DateSorter
+3 TimePlotter
+4 TrainigFunction
+5 CorrelationAnalysis
+
+Consider importing the data from the data folder, you can import the processed data too
